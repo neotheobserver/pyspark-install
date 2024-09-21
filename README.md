@@ -9,7 +9,7 @@ Jupyter-Notebook will also be installed.
 - Clone the repo
 
 ```sh
-git clone https://github.com/neotheobserver/pyspark-install
+git clone https://github.com/neotheobserver/pyspark-install.git
 cd pyspark-install
 ```
 
